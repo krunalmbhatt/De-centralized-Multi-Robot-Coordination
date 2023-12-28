@@ -8,7 +8,8 @@ The RVO2 (Reciprocal Velocity Obstacles 2) approach is a widely used algorithm i
 
 As for a visualization module, PyGame is a popular library for creating 2D games and visualizations in Python. Integrating PyGame with the RVO2 approach provided a powerful tool for visualizing the behavior and interactions of agents in a simulated environment. By leveraging PyGame's capabilities, we created a graphical representation of the agents, their trajectories, and the obstacles in the environment, allowing for a more intuitive understanding of the RVO2 algorithm in action.
 
-
+![](./images/Obstacle.png)
+![](./images/820+""+agents.png)
 
 To achieve this, we utilized PyGame's features to draw the agents as discs, visualize their paths, and display the environment with obstacles. Additionally, we implemented interactive elements to control the simulation parameters and observe the real-time behavior of the agents. This integration of RVO2 with PyGame can serve as a valuable tool for studying agent-based systems and crowd dynamics.
 

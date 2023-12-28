@@ -4,6 +4,8 @@ This repository contains a project completed at Worcester Polytechnic Institute 
 # Overview
 The RVO2 (Reciprocal Velocity Obstacles 2) approach is a widely used algorithm in the field of autonomous agent navigation and crowd simulation. It is designed to calculate collision-free and efficient paths for multiple agents moving in a shared environment. The RVO2 approach takes into account the velocities and preferred directions of the agents to compute safe and feasible trajectories, considering both avoidance of collisions and adherence to individual agents' goals.
 
+![](./images/VO.png)
+
 As for a visualization module, PyGame is a popular library for creating 2D games and visualizations in Python. Integrating PyGame with the RVO2 approach provided a powerful tool for visualizing the behavior and interactions of agents in a simulated environment. By leveraging PyGame's capabilities, we created a graphical representation of the agents, their trajectories, and the obstacles in the environment, allowing for a more intuitive understanding of the RVO2 algorithm in action.
 
 

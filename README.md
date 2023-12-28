@@ -4,4 +4,4 @@ This repository contains a project completed at Worcester Polytechnic Institute 
 # Overview
 
 # Implementation
-You can find the implementation for the same ![here](https://www.youtube.com/watch?v=PuyC30k67l0).
+You can find the implementation for the same [![here](https://www.youtube.com/watch?v=PuyC30k67l0)].
